@@ -1,0 +1,24 @@
+# Distribution / packaging
+__pycashe__
+.Python
+*.pyc
+*.pyo
+*.pyd
+env
+venv
+pip-log.txt
+pip-delete-this-directory.txt
+.tox
+.coverage
+.coverage.*
+.cashe
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.git
+.mypy_cashe
+.pytest_cashe
+.hypotthesis
+
+
